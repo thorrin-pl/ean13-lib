@@ -1,0 +1,23 @@
+{
+  "name": "ean13-lib",
+  "version": "0.1.0",
+  "description": "Libriary generates barcode in svg format and validate ean13 number.",
+  "main": "ean13-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorrin-pl/ean13-lib.git"
+  },
+  "keywords": [
+    "ean",
+    "barcode"
+  ],
+  "author": "Krzysztof Różański",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thorrin-pl/ean13-lib/issues"
+  },
+  "homepage": "https://github.com/thorrin-pl/ean13-lib#readme"
+}
